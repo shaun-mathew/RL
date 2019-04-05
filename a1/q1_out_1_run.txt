@@ -1,0 +1,407 @@
+
+Timestep: 100
+
+
+Average Running Reward: 0.81
+Average Reward Per Hundred: 0.81
+Number of Optimal Choices So Far: 15 of 100
+Number of Optimal Choices Per Hundred: 15
+
+Timestep: 200
+
+
+Average Running Reward: 0.855
+Average Reward Per Hundred: 0.9
+Number of Optimal Choices So Far: 32 of 200
+Number of Optimal Choices Per Hundred: 17
+
+Timestep: 300
+
+
+Average Running Reward: 0.8633333333333333
+Average Reward Per Hundred: 0.88
+Number of Optimal Choices So Far: 50 of 300
+Number of Optimal Choices Per Hundred: 18
+
+Timestep: 400
+
+
+Average Running Reward: 0.875
+Average Reward Per Hundred: 0.91
+Number of Optimal Choices So Far: 77 of 400
+Number of Optimal Choices Per Hundred: 27
+
+Timestep: 500
+
+
+Average Running Reward: 0.886
+Average Reward Per Hundred: 0.93
+Number of Optimal Choices So Far: 105 of 500
+Number of Optimal Choices Per Hundred: 28
+
+Timestep: 600
+
+
+Average Running Reward: 0.89
+Average Reward Per Hundred: 0.91
+Number of Optimal Choices So Far: 146 of 600
+Number of Optimal Choices Per Hundred: 41
+
+Timestep: 700
+
+
+Average Running Reward: 0.8914285714285715
+Average Reward Per Hundred: 0.9
+Number of Optimal Choices So Far: 189 of 700
+Number of Optimal Choices Per Hundred: 43
+
+Timestep: 800
+
+
+Average Running Reward: 0.9
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 226 of 800
+Number of Optimal Choices Per Hundred: 37
+
+Timestep: 900
+
+
+Average Running Reward: 0.9
+Average Reward Per Hundred: 0.9
+Number of Optimal Choices So Far: 268 of 900
+Number of Optimal Choices Per Hundred: 42
+
+Timestep: 1000
+
+
+Average Running Reward: 0.904
+Average Reward Per Hundred: 0.94
+Number of Optimal Choices So Far: 314 of 1000
+Number of Optimal Choices Per Hundred: 46
+
+Timestep: 1100
+
+
+Average Running Reward: 0.9027272727272727
+Average Reward Per Hundred: 0.89
+Number of Optimal Choices So Far: 349 of 1100
+Number of Optimal Choices Per Hundred: 35
+
+Timestep: 1200
+
+
+Average Running Reward: 0.905
+Average Reward Per Hundred: 0.93
+Number of Optimal Choices So Far: 392 of 1200
+Number of Optimal Choices Per Hundred: 43
+
+Timestep: 1300
+
+
+Average Running Reward: 0.9069230769230769
+Average Reward Per Hundred: 0.93
+Number of Optimal Choices So Far: 461 of 1300
+Number of Optimal Choices Per Hundred: 69
+
+Timestep: 1400
+
+
+Average Running Reward: 0.9057142857142857
+Average Reward Per Hundred: 0.89
+Number of Optimal Choices So Far: 523 of 1400
+Number of Optimal Choices Per Hundred: 62
+
+Timestep: 1500
+
+
+Average Running Reward: 0.908
+Average Reward Per Hundred: 0.94
+Number of Optimal Choices So Far: 563 of 1500
+Number of Optimal Choices Per Hundred: 40
+
+Timestep: 1600
+
+
+Average Running Reward: 0.911875
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 628 of 1600
+Number of Optimal Choices Per Hundred: 65
+
+Timestep: 1700
+
+
+Average Running Reward: 0.9141176470588235
+Average Reward Per Hundred: 0.95
+Number of Optimal Choices So Far: 679 of 1700
+Number of Optimal Choices Per Hundred: 51
+
+Timestep: 1800
+
+
+Average Running Reward: 0.9166666666666666
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 727 of 1800
+Number of Optimal Choices Per Hundred: 48
+
+Timestep: 1900
+
+
+Average Running Reward: 0.9189473684210526
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 786 of 1900
+Number of Optimal Choices Per Hundred: 59
+
+Timestep: 2000
+
+
+Average Running Reward: 0.92
+Average Reward Per Hundred: 0.94
+Number of Optimal Choices So Far: 849 of 2000
+Number of Optimal Choices Per Hundred: 63
+
+Timestep: 2100
+
+
+Average Running Reward: 0.9223809523809524
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 927 of 2100
+Number of Optimal Choices Per Hundred: 78
+
+Timestep: 2200
+
+
+Average Running Reward: 0.9240909090909091
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 982 of 2200
+Number of Optimal Choices Per Hundred: 55
+
+Timestep: 2300
+
+
+Average Running Reward: 0.9256521739130434
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 1032 of 2300
+Number of Optimal Choices Per Hundred: 50
+
+Timestep: 2400
+
+
+Average Running Reward: 0.9275
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 1083 of 2400
+Number of Optimal Choices Per Hundred: 51
+
+Timestep: 2500
+
+
+Average Running Reward: 0.9296
+Average Reward Per Hundred: 0.98
+Number of Optimal Choices So Far: 1146 of 2500
+Number of Optimal Choices Per Hundred: 63
+
+Timestep: 2600
+
+
+Average Running Reward: 0.9311538461538461
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 1208 of 2600
+Number of Optimal Choices Per Hundred: 62
+
+Timestep: 2700
+
+
+Average Running Reward: 0.932962962962963
+Average Reward Per Hundred: 0.98
+Number of Optimal Choices So Far: 1251 of 2700
+Number of Optimal Choices Per Hundred: 43
+
+Timestep: 2800
+
+
+Average Running Reward: 0.9339285714285714
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 1306 of 2800
+Number of Optimal Choices Per Hundred: 55
+
+Timestep: 2900
+
+
+Average Running Reward: 0.9348275862068965
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 1374 of 2900
+Number of Optimal Choices Per Hundred: 68
+
+Timestep: 3000
+
+
+Average Running Reward: 0.935
+Average Reward Per Hundred: 0.94
+Number of Optimal Choices So Far: 1440 of 3000
+Number of Optimal Choices Per Hundred: 66
+
+Timestep: 3100
+
+
+Average Running Reward: 0.9358064516129032
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 1515 of 3100
+Number of Optimal Choices Per Hundred: 75
+
+Timestep: 3200
+
+
+Average Running Reward: 0.936875
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 1595 of 3200
+Number of Optimal Choices Per Hundred: 80
+
+Timestep: 3300
+
+
+Average Running Reward: 0.9378787878787879
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 1668 of 3300
+Number of Optimal Choices Per Hundred: 73
+
+Timestep: 3400
+
+
+Average Running Reward: 0.9391176470588235
+Average Reward Per Hundred: 0.98
+Number of Optimal Choices So Far: 1719 of 3400
+Number of Optimal Choices Per Hundred: 51
+
+Timestep: 3500
+
+
+Average Running Reward: 0.94
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 1800 of 3500
+Number of Optimal Choices Per Hundred: 81
+
+Timestep: 3600
+
+
+Average Running Reward: 0.9413888888888889
+Average Reward Per Hundred: 0.99
+Number of Optimal Choices So Far: 1889 of 3600
+Number of Optimal Choices Per Hundred: 89
+
+Timestep: 3700
+
+
+Average Running Reward: 0.942972972972973
+Average Reward Per Hundred: 1.0
+Number of Optimal Choices So Far: 1933 of 3700
+Number of Optimal Choices Per Hundred: 44
+
+Timestep: 3800
+
+
+Average Running Reward: 0.9439473684210526
+Average Reward Per Hundred: 0.98
+Number of Optimal Choices So Far: 1977 of 3800
+Number of Optimal Choices Per Hundred: 44
+
+Timestep: 3900
+
+
+Average Running Reward: 0.9441025641025641
+Average Reward Per Hundred: 0.95
+Number of Optimal Choices So Far: 2049 of 3900
+Number of Optimal Choices Per Hundred: 72
+
+Timestep: 4000
+
+
+Average Running Reward: 0.94425
+Average Reward Per Hundred: 0.95
+Number of Optimal Choices So Far: 2120 of 4000
+Number of Optimal Choices Per Hundred: 71
+
+Timestep: 4100
+
+
+Average Running Reward: 0.9456097560975609
+Average Reward Per Hundred: 1.0
+Number of Optimal Choices So Far: 2179 of 4100
+Number of Optimal Choices Per Hundred: 59
+
+Timestep: 4200
+
+
+Average Running Reward: 0.9461904761904761
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 2244 of 4200
+Number of Optimal Choices Per Hundred: 65
+
+Timestep: 4300
+
+
+Average Running Reward: 0.9469767441860465
+Average Reward Per Hundred: 0.98
+Number of Optimal Choices So Far: 2293 of 4300
+Number of Optimal Choices Per Hundred: 49
+
+Timestep: 4400
+
+
+Average Running Reward: 0.9477272727272728
+Average Reward Per Hundred: 0.98
+Number of Optimal Choices So Far: 2349 of 4400
+Number of Optimal Choices Per Hundred: 56
+
+Timestep: 4500
+
+
+Average Running Reward: 0.948
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 2423 of 4500
+Number of Optimal Choices Per Hundred: 74
+
+Timestep: 4600
+
+
+Average Running Reward: 0.9480434782608695
+Average Reward Per Hundred: 0.95
+Number of Optimal Choices So Far: 2503 of 4600
+Number of Optimal Choices Per Hundred: 80
+
+Timestep: 4700
+
+
+Average Running Reward: 0.9485106382978723
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 2596 of 4700
+Number of Optimal Choices Per Hundred: 93
+
+Timestep: 4800
+
+
+Average Running Reward: 0.9489583333333333
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 2673 of 4800
+Number of Optimal Choices Per Hundred: 77
+
+Timestep: 4900
+
+
+Average Running Reward: 0.9493877551020408
+Average Reward Per Hundred: 0.97
+Number of Optimal Choices So Far: 2739 of 4900
+Number of Optimal Choices Per Hundred: 66
+
+Timestep: 5000
+
+
+Average Running Reward: 0.9496
+Average Reward Per Hundred: 0.96
+Number of Optimal Choices So Far: 2824 of 5000
+Number of Optimal Choices Per Hundred: 85
+
+
+Epsilon Probabilities: [0.5330997535581208, 0.9923466319781956, 0.3611753581835483, 0.14759482289331916, 0.445846164641964, 0.8429675948489133, 0.9088036350562749, 0.7461280795017567, 0.8041783971970722, 0.9677720230936874]
+
+Optimal Action: 1
+
+Number of Times Each Action was Chosen: [22, 2824, 25, 8, 47, 326, 398, 143, 113, 1094]
